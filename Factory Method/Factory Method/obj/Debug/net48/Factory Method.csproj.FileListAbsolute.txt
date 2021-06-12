@@ -1,0 +1,9 @@
+/Users/ronaldcastillo/Desktop/Doc/Application/Design Patterns C#/Factory Method/Factory Method/bin/Debug/net48/Factory Method.exe.config
+/Users/ronaldcastillo/Desktop/Doc/Application/Design Patterns C#/Factory Method/Factory Method/bin/Debug/net48/Factory Method.exe
+/Users/ronaldcastillo/Desktop/Doc/Application/Design Patterns C#/Factory Method/Factory Method/bin/Debug/net48/Factory Method.pdb
+/Users/ronaldcastillo/Desktop/Doc/Application/Design Patterns C#/Factory Method/Factory Method/obj/Debug/net48/Factory Method.csprojAssemblyReference.cache
+/Users/ronaldcastillo/Desktop/Doc/Application/Design Patterns C#/Factory Method/Factory Method/obj/Debug/net48/Factory Method.csproj.CoreCompileInputs.cache
+/Users/ronaldcastillo/Desktop/Doc/Application/Design Patterns C#/Factory Method/Factory Method/obj/Debug/net48/Factory Method.AssemblyInfoInputs.cache
+/Users/ronaldcastillo/Desktop/Doc/Application/Design Patterns C#/Factory Method/Factory Method/obj/Debug/net48/Factory Method.AssemblyInfo.cs
+/Users/ronaldcastillo/Desktop/Doc/Application/Design Patterns C#/Factory Method/Factory Method/obj/Debug/net48/Factory Method.exe
+/Users/ronaldcastillo/Desktop/Doc/Application/Design Patterns C#/Factory Method/Factory Method/obj/Debug/net48/Factory Method.pdb

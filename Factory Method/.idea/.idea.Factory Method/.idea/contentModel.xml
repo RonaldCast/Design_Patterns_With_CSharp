@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$PROJECT_DIR$" t="IncludeFlat">
+      <e p="Factory Method" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Creators" t="Include">
+          <e p="FactoryBus.cs" t="Include" />
+          <e p="FactoryCreator.cs" t="Include" />
+          <e p="FactoryPlane.cs" t="Include" />
+          <e p="FactoryShip.cs" t="Include" />
+        </e>
+        <e p="Factory Method.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="net48" t="Include">
+              <e p="Factory Method.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Products" t="Include">
+          <e p="Bus.cs" t="Include" />
+          <e p="Plane.cs" t="Include" />
+          <e p="Ship.cs" t="Include" />
+          <e p="Transport.cs" t="Include" />
+        </e>
+        <e p="Program.cs" t="Include" />
+      </e>
+      <e p="Factory Method.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+    <e p="$USER_HOME$/Library/Caches/JetBrains/Rider2020.2/extResources" t="IncludeRecursive" />
+    <e p="$USER_HOME$/Library/Caches/JetBrains/Rider2020.2/resharper-host/local/Transient/Rider/v202/SolutionCaches/_Factory Method.-969371190.00" t="ExcludeRecursive" />
+  </component>
+</project>
