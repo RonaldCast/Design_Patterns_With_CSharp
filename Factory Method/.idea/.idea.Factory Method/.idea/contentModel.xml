@@ -5,10 +5,10 @@
       <e p="Factory Method" t="IncludeRecursive">
         <e p="bin" t="ExcludeRecursive" />
         <e p="Creators" t="Include">
-          <e p="FactoryBus.cs" t="Include" />
-          <e p="FactoryCreator.cs" t="Include" />
-          <e p="FactoryPlane.cs" t="Include" />
-          <e p="FactoryShip.cs" t="Include" />
+          <e p="TransportBus.cs" t="Include" />
+          <e p="TransportCreator.cs" t="Include" />
+          <e p="TransportPlane.cs" t="Include" />
+          <e p="TransportShip.cs" t="Include" />
         </e>
         <e p="Factory Method.csproj" t="IncludeRecursive" />
         <e p="obj" t="ExcludeRecursive">

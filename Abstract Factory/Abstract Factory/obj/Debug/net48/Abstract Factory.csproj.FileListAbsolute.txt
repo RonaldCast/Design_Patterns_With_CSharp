@@ -1,0 +1,9 @@
+/Users/ronaldcastillo/Desktop/Doc/Application/Design Patterns C#/Abstract Factory/Abstract Factory/bin/Debug/net48/Abstract Factory.exe.config
+/Users/ronaldcastillo/Desktop/Doc/Application/Design Patterns C#/Abstract Factory/Abstract Factory/bin/Debug/net48/Abstract Factory.exe
+/Users/ronaldcastillo/Desktop/Doc/Application/Design Patterns C#/Abstract Factory/Abstract Factory/bin/Debug/net48/Abstract Factory.pdb
+/Users/ronaldcastillo/Desktop/Doc/Application/Design Patterns C#/Abstract Factory/Abstract Factory/obj/Debug/net48/Abstract Factory.csprojAssemblyReference.cache
+/Users/ronaldcastillo/Desktop/Doc/Application/Design Patterns C#/Abstract Factory/Abstract Factory/obj/Debug/net48/Abstract Factory.csproj.CoreCompileInputs.cache
+/Users/ronaldcastillo/Desktop/Doc/Application/Design Patterns C#/Abstract Factory/Abstract Factory/obj/Debug/net48/Abstract Factory.AssemblyInfoInputs.cache
+/Users/ronaldcastillo/Desktop/Doc/Application/Design Patterns C#/Abstract Factory/Abstract Factory/obj/Debug/net48/Abstract Factory.AssemblyInfo.cs
+/Users/ronaldcastillo/Desktop/Doc/Application/Design Patterns C#/Abstract Factory/Abstract Factory/obj/Debug/net48/Abstract Factory.exe
+/Users/ronaldcastillo/Desktop/Doc/Application/Design Patterns C#/Abstract Factory/Abstract Factory/obj/Debug/net48/Abstract Factory.pdb

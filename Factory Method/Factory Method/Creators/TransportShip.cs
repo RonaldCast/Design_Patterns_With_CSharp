@@ -2,11 +2,11 @@ using Factory_Method.Products;
 
 namespace Factory_Method.Creators
 {
-    public class FactoryBus : FactoryCreator
+    public class TransportShip : TransportCreator
     {
         public override ITransport CreateTransport()
         {
-            return new Bus();
+            return new Ship();
         }
     }
 }

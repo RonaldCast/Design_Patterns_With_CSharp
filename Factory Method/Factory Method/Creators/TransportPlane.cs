@@ -2,7 +2,7 @@ using Factory_Method.Products;
 
 namespace Factory_Method.Creators
 {
-    public  class FactoryPlane : FactoryCreator
+    public  class TransportPlane : TransportCreator
     {
         public override ITransport CreateTransport()
         {

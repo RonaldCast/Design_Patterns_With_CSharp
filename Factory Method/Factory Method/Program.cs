@@ -20,21 +20,21 @@ namespace Factory_Method
             Console.WriteLine("3. Plane");
             var number = Console.ReadLine();
            
-            FactoryCreator factory;
+            TransportCreator factory;
 
             switch (number)
             {
                 case "1": 
-                    factory = new FactoryShip();
+                    factory = new TransportShip();
                     break;
                 case "2": 
-                    factory = new FactoryBus();
+                    factory = new TransportBus();
                     break;
                 case "3": 
-                    factory = new FactoryPlane();
+                    factory = new TransportPlane();
                     break;
                 default:
-                    factory = new FactoryBus();
+                    factory = new TransportBus();
                     break;
             }
 
