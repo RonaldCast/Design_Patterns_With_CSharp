@@ -1,0 +1,9 @@
+/Users/ronaldcastillo/Desktop/Doc/Application/Design Patterns C#/Builder/Builder/bin/Debug/net48/Builder.exe.config
+/Users/ronaldcastillo/Desktop/Doc/Application/Design Patterns C#/Builder/Builder/bin/Debug/net48/Builder.exe
+/Users/ronaldcastillo/Desktop/Doc/Application/Design Patterns C#/Builder/Builder/bin/Debug/net48/Builder.pdb
+/Users/ronaldcastillo/Desktop/Doc/Application/Design Patterns C#/Builder/Builder/obj/Debug/net48/Builder.csprojAssemblyReference.cache
+/Users/ronaldcastillo/Desktop/Doc/Application/Design Patterns C#/Builder/Builder/obj/Debug/net48/Builder.csproj.CoreCompileInputs.cache
+/Users/ronaldcastillo/Desktop/Doc/Application/Design Patterns C#/Builder/Builder/obj/Debug/net48/Builder.AssemblyInfoInputs.cache
+/Users/ronaldcastillo/Desktop/Doc/Application/Design Patterns C#/Builder/Builder/obj/Debug/net48/Builder.AssemblyInfo.cs
+/Users/ronaldcastillo/Desktop/Doc/Application/Design Patterns C#/Builder/Builder/obj/Debug/net48/Builder.exe
+/Users/ronaldcastillo/Desktop/Doc/Application/Design Patterns C#/Builder/Builder/obj/Debug/net48/Builder.pdb
