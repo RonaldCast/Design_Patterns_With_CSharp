@@ -1,0 +1,9 @@
+/Users/ronaldcastillo/Desktop/Doc/Application/Design Patterns C#/Prototype/Prototype/bin/Debug/net48/Prototype.exe.config
+/Users/ronaldcastillo/Desktop/Doc/Application/Design Patterns C#/Prototype/Prototype/bin/Debug/net48/Prototype.exe
+/Users/ronaldcastillo/Desktop/Doc/Application/Design Patterns C#/Prototype/Prototype/bin/Debug/net48/Prototype.pdb
+/Users/ronaldcastillo/Desktop/Doc/Application/Design Patterns C#/Prototype/Prototype/obj/Debug/net48/Prototype.csprojAssemblyReference.cache
+/Users/ronaldcastillo/Desktop/Doc/Application/Design Patterns C#/Prototype/Prototype/obj/Debug/net48/Prototype.csproj.CoreCompileInputs.cache
+/Users/ronaldcastillo/Desktop/Doc/Application/Design Patterns C#/Prototype/Prototype/obj/Debug/net48/Prototype.AssemblyInfoInputs.cache
+/Users/ronaldcastillo/Desktop/Doc/Application/Design Patterns C#/Prototype/Prototype/obj/Debug/net48/Prototype.AssemblyInfo.cs
+/Users/ronaldcastillo/Desktop/Doc/Application/Design Patterns C#/Prototype/Prototype/obj/Debug/net48/Prototype.exe
+/Users/ronaldcastillo/Desktop/Doc/Application/Design Patterns C#/Prototype/Prototype/obj/Debug/net48/Prototype.pdb
