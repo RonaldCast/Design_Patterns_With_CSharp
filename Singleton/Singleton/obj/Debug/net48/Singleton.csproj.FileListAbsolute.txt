@@ -1,0 +1,9 @@
+/Users/ronaldcastillo/Desktop/Doc/Application/Design Patterns C#/Singleton/Singleton/bin/Debug/net48/Singleton.exe.config
+/Users/ronaldcastillo/Desktop/Doc/Application/Design Patterns C#/Singleton/Singleton/bin/Debug/net48/Singleton.exe
+/Users/ronaldcastillo/Desktop/Doc/Application/Design Patterns C#/Singleton/Singleton/bin/Debug/net48/Singleton.pdb
+/Users/ronaldcastillo/Desktop/Doc/Application/Design Patterns C#/Singleton/Singleton/obj/Debug/net48/Singleton.csprojAssemblyReference.cache
+/Users/ronaldcastillo/Desktop/Doc/Application/Design Patterns C#/Singleton/Singleton/obj/Debug/net48/Singleton.csproj.CoreCompileInputs.cache
+/Users/ronaldcastillo/Desktop/Doc/Application/Design Patterns C#/Singleton/Singleton/obj/Debug/net48/Singleton.AssemblyInfoInputs.cache
+/Users/ronaldcastillo/Desktop/Doc/Application/Design Patterns C#/Singleton/Singleton/obj/Debug/net48/Singleton.AssemblyInfo.cs
+/Users/ronaldcastillo/Desktop/Doc/Application/Design Patterns C#/Singleton/Singleton/obj/Debug/net48/Singleton.exe
+/Users/ronaldcastillo/Desktop/Doc/Application/Design Patterns C#/Singleton/Singleton/obj/Debug/net48/Singleton.pdb
