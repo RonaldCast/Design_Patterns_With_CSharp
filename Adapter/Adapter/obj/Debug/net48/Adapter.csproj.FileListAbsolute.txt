@@ -1,0 +1,11 @@
+/Users/ronaldcastillo/Desktop/Doc/Application/Design Patterns C#/Adapter/Adapter/bin/Debug/net48/Adapter.exe.config
+/Users/ronaldcastillo/Desktop/Doc/Application/Design Patterns C#/Adapter/Adapter/bin/Debug/net48/Adapter.exe
+/Users/ronaldcastillo/Desktop/Doc/Application/Design Patterns C#/Adapter/Adapter/bin/Debug/net48/Adapter.pdb
+/Users/ronaldcastillo/Desktop/Doc/Application/Design Patterns C#/Adapter/Adapter/obj/Debug/net48/Adapter.csprojAssemblyReference.cache
+/Users/ronaldcastillo/Desktop/Doc/Application/Design Patterns C#/Adapter/Adapter/obj/Debug/net48/Adapter.csproj.CoreCompileInputs.cache
+/Users/ronaldcastillo/Desktop/Doc/Application/Design Patterns C#/Adapter/Adapter/obj/Debug/net48/Adapter.AssemblyInfoInputs.cache
+/Users/ronaldcastillo/Desktop/Doc/Application/Design Patterns C#/Adapter/Adapter/obj/Debug/net48/Adapter.AssemblyInfo.cs
+/Users/ronaldcastillo/Desktop/Doc/Application/Design Patterns C#/Adapter/Adapter/obj/Debug/net48/Adapter.exe
+/Users/ronaldcastillo/Desktop/Doc/Application/Design Patterns C#/Adapter/Adapter/obj/Debug/net48/Adapter.pdb
+/Users/ronaldcastillo/Desktop/Doc/Application/Design Patterns C#/Adapter/Adapter/bin/Debug/net48/Newtonsoft.Json.dll
+/Users/ronaldcastillo/Desktop/Doc/Application/Design Patterns C#/Adapter/Adapter/obj/Debug/net48/Adapter.csproj.CopyComplete
