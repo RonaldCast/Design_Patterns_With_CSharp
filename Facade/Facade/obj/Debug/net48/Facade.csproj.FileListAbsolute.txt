@@ -1,0 +1,9 @@
+/Users/ronaldcastillo/Desktop/Doc/Application/Design Patterns C#/Facade/Facade/bin/Debug/net48/Facade.exe.config
+/Users/ronaldcastillo/Desktop/Doc/Application/Design Patterns C#/Facade/Facade/bin/Debug/net48/Facade.exe
+/Users/ronaldcastillo/Desktop/Doc/Application/Design Patterns C#/Facade/Facade/bin/Debug/net48/Facade.pdb
+/Users/ronaldcastillo/Desktop/Doc/Application/Design Patterns C#/Facade/Facade/obj/Debug/net48/Facade.csprojAssemblyReference.cache
+/Users/ronaldcastillo/Desktop/Doc/Application/Design Patterns C#/Facade/Facade/obj/Debug/net48/Facade.csproj.CoreCompileInputs.cache
+/Users/ronaldcastillo/Desktop/Doc/Application/Design Patterns C#/Facade/Facade/obj/Debug/net48/Facade.AssemblyInfoInputs.cache
+/Users/ronaldcastillo/Desktop/Doc/Application/Design Patterns C#/Facade/Facade/obj/Debug/net48/Facade.AssemblyInfo.cs
+/Users/ronaldcastillo/Desktop/Doc/Application/Design Patterns C#/Facade/Facade/obj/Debug/net48/Facade.exe
+/Users/ronaldcastillo/Desktop/Doc/Application/Design Patterns C#/Facade/Facade/obj/Debug/net48/Facade.pdb
