@@ -1,0 +1,9 @@
+/Users/ronaldcastillo/Desktop/Doc/Application/Design Patterns C#/Bridge/Bridge/bin/Debug/net48/Bridge.exe.config
+/Users/ronaldcastillo/Desktop/Doc/Application/Design Patterns C#/Bridge/Bridge/bin/Debug/net48/Bridge.exe
+/Users/ronaldcastillo/Desktop/Doc/Application/Design Patterns C#/Bridge/Bridge/bin/Debug/net48/Bridge.pdb
+/Users/ronaldcastillo/Desktop/Doc/Application/Design Patterns C#/Bridge/Bridge/obj/Debug/net48/Bridge.csprojAssemblyReference.cache
+/Users/ronaldcastillo/Desktop/Doc/Application/Design Patterns C#/Bridge/Bridge/obj/Debug/net48/Bridge.csproj.CoreCompileInputs.cache
+/Users/ronaldcastillo/Desktop/Doc/Application/Design Patterns C#/Bridge/Bridge/obj/Debug/net48/Bridge.AssemblyInfoInputs.cache
+/Users/ronaldcastillo/Desktop/Doc/Application/Design Patterns C#/Bridge/Bridge/obj/Debug/net48/Bridge.AssemblyInfo.cs
+/Users/ronaldcastillo/Desktop/Doc/Application/Design Patterns C#/Bridge/Bridge/obj/Debug/net48/Bridge.exe
+/Users/ronaldcastillo/Desktop/Doc/Application/Design Patterns C#/Bridge/Bridge/obj/Debug/net48/Bridge.pdb

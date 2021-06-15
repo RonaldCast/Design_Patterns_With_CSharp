@@ -1,0 +1,46 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/ronaldcastillo/Desktop/Doc/Application/Design Patterns C#/Bridge/Bridge/Bridge.csproj": {}
+  },
+  "projects": {
+    "/Users/ronaldcastillo/Desktop/Doc/Application/Design Patterns C#/Bridge/Bridge/Bridge.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/ronaldcastillo/Desktop/Doc/Application/Design Patterns C#/Bridge/Bridge/Bridge.csproj",
+        "projectName": "Bridge",
+        "projectPath": "/Users/ronaldcastillo/Desktop/Doc/Application/Design Patterns C#/Bridge/Bridge/Bridge.csproj",
+        "packagesPath": "/Users/ronaldcastillo/.nuget/packages/",
+        "outputPath": "/Users/ronaldcastillo/Desktop/Doc/Application/Design Patterns C#/Bridge/Bridge/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/ronaldcastillo/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net48"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net48": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net48": {
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.200/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
