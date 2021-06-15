@@ -1,0 +1,9 @@
+/Users/ronaldcastillo/Desktop/Doc/Application/Design Patterns C#/Composite/Composite/bin/Debug/net48/Composite.exe.config
+/Users/ronaldcastillo/Desktop/Doc/Application/Design Patterns C#/Composite/Composite/bin/Debug/net48/Composite.exe
+/Users/ronaldcastillo/Desktop/Doc/Application/Design Patterns C#/Composite/Composite/bin/Debug/net48/Composite.pdb
+/Users/ronaldcastillo/Desktop/Doc/Application/Design Patterns C#/Composite/Composite/obj/Debug/net48/Composite.csprojAssemblyReference.cache
+/Users/ronaldcastillo/Desktop/Doc/Application/Design Patterns C#/Composite/Composite/obj/Debug/net48/Composite.csproj.CoreCompileInputs.cache
+/Users/ronaldcastillo/Desktop/Doc/Application/Design Patterns C#/Composite/Composite/obj/Debug/net48/Composite.AssemblyInfoInputs.cache
+/Users/ronaldcastillo/Desktop/Doc/Application/Design Patterns C#/Composite/Composite/obj/Debug/net48/Composite.AssemblyInfo.cs
+/Users/ronaldcastillo/Desktop/Doc/Application/Design Patterns C#/Composite/Composite/obj/Debug/net48/Composite.exe
+/Users/ronaldcastillo/Desktop/Doc/Application/Design Patterns C#/Composite/Composite/obj/Debug/net48/Composite.pdb
