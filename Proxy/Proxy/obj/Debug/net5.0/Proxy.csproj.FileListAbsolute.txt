@@ -1,0 +1,15 @@
+/Users/ronaldcastillo/Desktop/Doc/Application/Design Patterns C#/Proxy/Proxy/bin/Debug/net5.0/Proxy.deps.json
+/Users/ronaldcastillo/Desktop/Doc/Application/Design Patterns C#/Proxy/Proxy/bin/Debug/net5.0/Proxy.runtimeconfig.json
+/Users/ronaldcastillo/Desktop/Doc/Application/Design Patterns C#/Proxy/Proxy/bin/Debug/net5.0/Proxy.runtimeconfig.dev.json
+/Users/ronaldcastillo/Desktop/Doc/Application/Design Patterns C#/Proxy/Proxy/bin/Debug/net5.0/Proxy.dll
+/Users/ronaldcastillo/Desktop/Doc/Application/Design Patterns C#/Proxy/Proxy/bin/Debug/net5.0/ref/Proxy.dll
+/Users/ronaldcastillo/Desktop/Doc/Application/Design Patterns C#/Proxy/Proxy/bin/Debug/net5.0/Proxy.pdb
+/Users/ronaldcastillo/Desktop/Doc/Application/Design Patterns C#/Proxy/Proxy/obj/Debug/net5.0/Proxy.csprojAssemblyReference.cache
+/Users/ronaldcastillo/Desktop/Doc/Application/Design Patterns C#/Proxy/Proxy/obj/Debug/net5.0/Proxy.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ronaldcastillo/Desktop/Doc/Application/Design Patterns C#/Proxy/Proxy/obj/Debug/net5.0/Proxy.AssemblyInfoInputs.cache
+/Users/ronaldcastillo/Desktop/Doc/Application/Design Patterns C#/Proxy/Proxy/obj/Debug/net5.0/Proxy.AssemblyInfo.cs
+/Users/ronaldcastillo/Desktop/Doc/Application/Design Patterns C#/Proxy/Proxy/obj/Debug/net5.0/Proxy.csproj.CoreCompileInputs.cache
+/Users/ronaldcastillo/Desktop/Doc/Application/Design Patterns C#/Proxy/Proxy/obj/Debug/net5.0/Proxy.dll
+/Users/ronaldcastillo/Desktop/Doc/Application/Design Patterns C#/Proxy/Proxy/obj/Debug/net5.0/ref/Proxy.dll
+/Users/ronaldcastillo/Desktop/Doc/Application/Design Patterns C#/Proxy/Proxy/obj/Debug/net5.0/Proxy.pdb
+/Users/ronaldcastillo/Desktop/Doc/Application/Design Patterns C#/Proxy/Proxy/obj/Debug/net5.0/Proxy.genruntimeconfig.cache
